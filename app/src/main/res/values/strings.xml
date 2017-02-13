@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Midterm Exam</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="albumName">Album Name Here</string>
+    <string name="artistName">Artist Name Here</string>
+    <string name="clear_list">Clear</string>
+
+    <string name="album_api1">http://ws.audioscrobbler.com/2.0/?method=album.search&amp;album=</string>
+    <string name="album_api2">&amp;api_key=d5292261363cda069c8bbd35b5ac4a7a&amp;format=json</string>
+
+    <string name="TAG">MainFragment</string>
+    <string name="KEY_LAYOUT_MANAGER">layoutManager</string>
+</resources>
